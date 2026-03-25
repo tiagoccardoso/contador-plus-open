@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ec-132-2023-promulgacao",
+    "title": "Promulgação da EC 132/2023 (Reforma Tributária)",
+    "subtitle": "Altera o sistema tributário nacional e estabelece diretrizes da CBS/IBS",
+    "date": "2023-12-20",
+    "category": "legislativo",
+    "status": "vigente",
+    "scope": "federal",
+    "themes": [
+      "cbs",
+      "ibs",
+      "transicao"
+    ],
+    "actors": [
+      "Congresso Nacional"
+    ],
+    "summary": "Promulgação da emenda constitucional que moderniza a tributação sobre consumo.",
+    "impact": "Inicia cronograma de transição e base para leis complementares.",
+    "sources": [
+      {
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+        "label": "Texto oficial da EC 132/2023",
+        "checkedAt": "2024-01-05T00:00:00Z",
+        "kind": "lei"
+      }
+    ],
+    "updatedAt": "2024-01-05T00:00:00Z"
+  },
+  {
+    "id": "lc-xxx-2025-cbs-credito",
+    "title": "LC XXX/2025 regulamenta créditos da CBS",
+    "subtitle": "Define metodologia de crédito financeiro e ajustes de transição",
+    "date": "2025-05-02",
+    "category": "legislativo",
+    "status": "aprovado",
+    "scope": "federal",
+    "themes": [
+      "cbs",
+      "transicao"
+    ],
+    "actors": [
+      "Câmara",
+      "Senado"
+    ],
+    "summary": "Regras de creditamento da CBS abrangendo insumos e setores específicos.",
+    "impact": "Uniformiza crédito e reduz contencioso sobre insumos.",
+    "sources": [
+      {
+        "url": "https://www.planalto.gov.br/",
+        "label": "Publicação oficial",
+        "checkedAt": "2025-10-10T00:00:00Z",
+        "kind": "lc"
+      }
+    ],
+    "updatedAt": "2025-10-11T12:30:00Z"
+  },
+  {
+    "id": "rfb-ato-2025-orientacao-cbs",
+    "title": "Ato RFB 123/2025 orienta procedimentos CBS",
+    "subtitle": "Dispõe sobre escrituração e prazos",
+    "date": "2025-06-15",
+    "category": "receita",
+    "status": "vigente",
+    "scope": "federal",
+    "themes": [
+      "cbs",
+      "compliance"
+    ],
+    "actors": [
+      "Receita Federal"
+    ],
+    "summary": "Orienta procedimentos de escrituração digital relacionados à CBS.",
+    "impact": "Adequação de sistemas e prazos de entrega.",
+    "sources": [
+      {
+        "url": "https://www.gov.br/receita/",
+        "label": "Portal RFB",
+        "checkedAt": "2025-10-11T00:00:00Z",
+        "kind": "ato"
+      }
+    ],
+    "updatedAt": "2025-10-11T12:30:00Z"
+  },
+  {
+    "id": "janela-transicao-2026-2027",
+    "title": "Janela de transição para IBS/CBS",
+    "subtitle": "Período de testes, convivência e ajustes",
+    "startDate": "2026-01-01",
+    "endDate": "2027-12-31",
+    "category": "executivo",
+    "status": "pendente_regulamentacao",
+    "scope": "federal",
+    "themes": [
+      "ibs",
+      "cbs",
+      "transicao"
+    ],
+    "actors": [
+      "ME",
+      "RFB",
+      "Comitê Gestor"
+    ],
+    "summary": "Período de transição com faseamento da alíquota e ajustes operacionais.",
+    "impact": "Exige adequações gradativas de sistemas e compliance.",
+    "sources": [
+      {
+        "url": "https://www.gov.br/",
+        "label": "Portais oficiais",
+        "checkedAt": "2025-10-11T00:00:00Z",
+        "kind": "orientacao"
+      }
+    ],
+    "updatedAt": "2025-10-11T12:30:00Z"
+  },
+  {
+    "id": "stf-precedente-2025-beneficios",
+    "title": "STF julga benefícios setoriais na transição",
+    "subtitle": "Define limites de incentivos e regimes",
+    "date": "2025-09-20",
+    "category": "judiciario",
+    "status": "aprovado",
+    "scope": "federal",
+    "themes": [
+      "beneficios",
+      "regimes"
+    ],
+    "actors": [
+      "STF"
+    ],
+    "summary": "Julgado estabelece balizas para manutenção de benefícios durante a transição.",
+    "impact": "Reduz incerteza regulatória e orienta políticas estaduais.",
+    "sources": [
+      {
+        "url": "https://portal.stf.jus.br/",
+        "label": "Acórdão STF",
+        "checkedAt": "2025-10-11T00:00:00Z",
+        "kind": "jurisprudencia"
+      }
+    ],
+    "updatedAt": "2025-10-11T12:30:00Z"
+  }
+]

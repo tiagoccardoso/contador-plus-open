@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c1",
+    "cnpj": "00.000.000/0001-00",
+    "nome": "Empresa Demo PR",
+    "regime": "Simples",
+    "uf": "PR"
+  },
+  {
+    "id": "c2",
+    "cnpj": "11.111.111/0001-11",
+    "nome": "Empresa Demo SP",
+    "regime": "Presumido",
+    "uf": "SP"
+  }
+]

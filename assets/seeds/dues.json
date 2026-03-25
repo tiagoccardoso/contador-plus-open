@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d-c1-o1-2025-09",
+    "companyId": "c1",
+    "obligationId": "o1",
+    "competencia": "2025-09",
+    "vencimento": "2025-09-20",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c1-o1-2025-10",
+    "companyId": "c1",
+    "obligationId": "o1",
+    "competencia": "2025-10",
+    "vencimento": "2025-10-20",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c1-o1-2025-11",
+    "companyId": "c1",
+    "obligationId": "o1",
+    "competencia": "2025-11",
+    "vencimento": "2025-11-20",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c1-o2-2025-09",
+    "companyId": "c1",
+    "obligationId": "o2",
+    "competencia": "2025-09",
+    "vencimento": "2025-09-15",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c1-o2-2025-10",
+    "companyId": "c1",
+    "obligationId": "o2",
+    "competencia": "2025-10",
+    "vencimento": "2025-10-15",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c1-o2-2025-11",
+    "companyId": "c1",
+    "obligationId": "o2",
+    "competencia": "2025-11",
+    "vencimento": "2025-11-15",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c2-o4-2025-09",
+    "companyId": "c2",
+    "obligationId": "o4",
+    "competencia": "2025-09",
+    "vencimento": "2025-09-20",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c2-o4-2025-10",
+    "companyId": "c2",
+    "obligationId": "o4",
+    "competencia": "2025-10",
+    "vencimento": "2025-10-20",
+    "status": "pendente"
+  },
+  {
+    "id": "d-c2-o4-2025-11",
+    "companyId": "c2",
+    "obligationId": "o4",
+    "competencia": "2025-11",
+    "vencimento": "2025-11-20",
+    "status": "pendente"
+  }
+]

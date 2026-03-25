@@ -1,0 +1,38 @@
+[
+  {
+    "id": "r1",
+    "obligationId": "o1",
+    "uf": null,
+    "regime": null,
+    "periodicidade": "mensal",
+    "formulaPrazo": "D+20",
+    "proximoDiaUtil": true
+  },
+  {
+    "id": "r2",
+    "obligationId": "o2",
+    "uf": null,
+    "regime": null,
+    "periodicidade": "mensal",
+    "formulaPrazo": "D+15",
+    "proximoDiaUtil": true
+  },
+  {
+    "id": "r3",
+    "obligationId": "o4",
+    "uf": "SP",
+    "regime": null,
+    "periodicidade": "mensal",
+    "formulaPrazo": "D+20",
+    "proximoDiaUtil": true
+  },
+  {
+    "id": "r4",
+    "obligationId": "o4",
+    "uf": "PR",
+    "regime": null,
+    "periodicidade": "mensal",
+    "formulaPrazo": "D+20",
+    "proximoDiaUtil": true
+  }
+]

@@ -1,0 +1,3 @@
+# Adição sugerida ao pubspec.yaml
+dependencies:
+  url_launcher: ^6.3.0

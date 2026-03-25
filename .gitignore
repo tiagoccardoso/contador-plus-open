@@ -1,0 +1,124 @@
+# =========================
+# OS / Misc
+# =========================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# Temporary / backup / patch files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.diff
+*.patch
+
+# =========================
+# IDEs / Editors
+# =========================
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# =========================
+# Secrets / Local config
+# =========================
+.env
+.env.*
+!.env.example
+
+android/key.properties
+android/local.properties
+
+# Keystores / signing files
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Local data / private workspace files
+.data/
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Flutter / Dart / Pub
+# =========================
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Flutter generated plugin registrants / tool files
+**/generated_plugin_registrant.*
+**/flutter_export_environment.sh
+
+# Test / coverage outputs
+coverage/
+test_driver/screenshots/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# =========================
+# Android
+# =========================
+/android/.gradle/
+/android/.kotlin/
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/captures/
+**/android/**/build/
+
+# =========================
+# iOS / macOS
+# =========================
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+**/xcuserdata/
+
+# =========================
+# Linux / Windows
+# =========================
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# =========================
+# Generated build outputs
+# =========================
+**/build/
+dist/
+out/
+release/
+
+# =========================
+# Optional: keep screenshots/versioned assets
+# =========================
+# screenshots/

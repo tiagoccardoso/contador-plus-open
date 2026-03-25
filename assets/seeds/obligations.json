@@ -1,0 +1,26 @@
+[
+  {
+    "id": "o1",
+    "esfera": "federal",
+    "nome": "DCTFWeb",
+    "descricao": "Débitos e Créditos Previdenciários"
+  },
+  {
+    "id": "o2",
+    "esfera": "federal",
+    "nome": "EFD-Reinf",
+    "descricao": "Retenções e Outras Informações Fiscais"
+  },
+  {
+    "id": "o3",
+    "esfera": "federal",
+    "nome": "EFD-Contribuições",
+    "descricao": "PIS/COFINS (DEMO)"
+  },
+  {
+    "id": "o4",
+    "esfera": "estadual",
+    "nome": "EFD-ICMS/IPI",
+    "descricao": "Apuração ICMS/IPI (DEMO)"
+  }
+]

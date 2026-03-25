@@ -1,0 +1,7 @@
+
+id: trail_reinf_r2010
+titulo: EFD-Reinf R-2010 — Retenções (DEMO)
+passos:
+  - objetivo: Validar notas com retenção
+  - objetivo: Gerar eventos R-2010
+  - objetivo: Transmitir e conferir retornos

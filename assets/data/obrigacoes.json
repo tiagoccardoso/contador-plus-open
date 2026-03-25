@@ -1,0 +1,57 @@
+{
+  "atualizadoEm": "2025-09-17T00:00:00-03:00",
+  "fontes": [
+    {
+      "titulo": "Agenda Tributária — Setembro/2025 — Declarações, Demonstrativos e Documentos",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2025/setembro/declaracoes-demonstrativos-e-documentos",
+      "coletadoEm": "2025-09-17"
+    },
+    {
+      "titulo": "Dia 12/09/2025 — EFD-Contribuições (Jul/2025)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2025/setembro/dia-12-09-2025",
+      "coletadoEm": "2025-09-17"
+    },
+    {
+      "titulo": "Dia 15/09/2025 — EFD-Reinf (Ago/2025)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2025/setembro/dia-15-09-2025",
+      "coletadoEm": "2025-09-17"
+    },
+    {
+      "titulo": "IN RFB nº 2.248/2025 — DCTFWeb no último dia útil do mês subsequente (Notícia RFB)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/fevereiro/contribuintes-ganham-mais-tempo-para-entregar-a-dctfweb",
+      "coletadoEm": "2025-09-17"
+    }
+  ],
+  "itens": [
+    {
+      "sigla": "EFD-Contribuições",
+      "nome": "EFD - Contribuições",
+      "descricao": "PIS/Cofins — Escrituração Fiscal Digital das Contribuições.",
+      "fonte": "Agenda Tributária — RFB",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2025/setembro/dia-12-09-2025",
+      "competencia": "2025-07",
+      "dataVencimento": "2025-09-12",
+      "observacao": "10º dia útil do 2º mês subsequente (conforme Agenda)."
+    },
+    {
+      "sigla": "EFD-Reinf",
+      "nome": "EFD-Reinf",
+      "descricao": "Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais.",
+      "fonte": "Agenda Tributária — RFB",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/2025/setembro/dia-15-09-2025",
+      "competencia": "2025-08",
+      "dataVencimento": "2025-09-15",
+      "observacao": "Prazo conforme Agenda mensal."
+    },
+    {
+      "sigla": "DCTFWeb",
+      "nome": "DCTFWeb",
+      "descricao": "Débitos e Créditos Tributários Federais — Previdenciários.",
+      "fonte": "Notícia/IN RFB 2.248/2025 + Agenda",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/fevereiro/contribuintes-ganham-mais-tempo-para-entregar-a-dctfweb",
+      "competencia": "2025-08",
+      "dataVencimento": "2025-09-30",
+      "observacao": "Último dia útil do mês subsequente (IN 2.248/2025)."
+    }
+  ]
+}
